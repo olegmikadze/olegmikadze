@@ -2,8 +2,19 @@
 
 My name is Oleh. I'm web developer in Astound Commerce from Ukraine, Kyiv. I'm а responsible and reliable person, ready to face and to cope with challenging projects, able to contribute into teamwork as well as to complete individual tasks. 
 
-## My stack of technologies: JavaScript ES5+, TypeScript, NodeJS (Express/Nest), Python 3, Flask, PostgreSQL, MongoDB, jQuery, React, Redux, Docker, AWS S3, Git.
-
+## My stack of technologies: 
+- JavaScript ES5+
+- TypeScript
+- NodeJS (Express/Nest)
+- Python 3
+- Flask
+- PostgreSQL
+- MongoDB
+- jQuery
+- React/Redux
+- Docker
+- AWS S3
+- Git
 
 ## How to reach me: 
 - LinkedIn: https://www.linkedin.com/in/oleh-mikadze-568353ab/
