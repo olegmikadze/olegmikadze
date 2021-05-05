@@ -21,7 +21,7 @@ My name is Oleh. I'm web developer in Astound Commerce from Ukraine, Kyiv. I'm Ð
 ## How to reach me: 
 - LinkedIn: https://www.linkedin.com/in/oleh-mikadze-568353ab/
 - Djinni: https://djinni.co/q/4ca8ccad/
-- Instagram: https://www.instagram.com/mxkdzzzz/
+- Instagram: https://www.instagram.com/olehmikadze/
 - Gmail: olegmikadze10@gmail.com
 - CV: https://olegmikadze.github.io/cvNew/
 
