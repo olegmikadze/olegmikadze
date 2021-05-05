@@ -11,7 +11,7 @@ My name is Oleh. I'm web developer in Astound Commerce from Ukraine, Kyiv. I'm Ð
 - Git (GitHub, GitLab, BitBacket)
 - Webpack
 
-# Also used and learned: 
+## Also used and learned: 
 - Python 3 (Flask, Django)
 - jQuery
 - React/Redux
