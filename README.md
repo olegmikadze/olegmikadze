@@ -5,17 +5,17 @@ My name is Oleh. I'm web developer in Astound Commerce from Ukraine, Kyiv. I'm Ð
 ## My working stack of technologies: 
 - JavaScript ES5/6/7
 - TypeScript
-- NodeJS (Express/Nest)
+- NodeJS (ExpressJS / NestJS)
 - SQL (PostgreSQL)
 - NoSQL (MongoDB)
 - Git (GitHub, GitLab, BitBacket)
-- Webpack
 
 ## Also used and learned: 
 - Python 3 (Flask, Django)
 - jQuery
 - React/Redux
 - Docker
+- Webpack
 - AWS (S3, EC2, Lambda)
 
 ## How to reach me: 
