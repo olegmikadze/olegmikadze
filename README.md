@@ -1,9 +1,9 @@
-### Web developer at Folderly from Ukraine, Kyiv 👋
+### FullStack NodeJS Web developer at Folderly from Ukraine, Kyiv 👋
 
 ### My working stack of technologies: 
 - JavaScript ES5+
 - TypeScript
-- NodeJS (Express.js, Nest.js, Vue.js)
+- Node.js (Express.js, Nest.js, Vue.js)
 - SQL (PostgreSQL)
 - NoSQL (MongoDB, Firestore)
 - Git (GitHub, GitLab, BitBucket)
