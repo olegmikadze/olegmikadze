@@ -12,6 +12,6 @@
 - LinkedIn: https://www.linkedin.com/in/oleh-mikadze-568353ab/
 - Djinni: https://djinni.co/q/4ca8ccad/
 - Instagram: https://www.instagram.com/olehmikadze/
-- Gmail: olegmikadze10@gmail.com
+- Gmail: olegmikadze@gmail.com
 - CV: https://olegmikadze.github.io/cvNew/
 
