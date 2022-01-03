@@ -1,22 +1,14 @@
 ### Welcome to my Github account 👋
 
-My name is Oleh. I'm web developer in Astound Commerce from Ukraine, Kyiv. I'm а responsible and reliable person, ready to face and to cope with challenging projects, able to contribute into teamwork as well as to complete individual tasks. 
+Web developer at Folderly from Ukraine, Kyiv. 
 
 ## My working stack of technologies: 
-- JavaScript ES5/6/7
+- JavaScript ES5+
 - TypeScript
-- NodeJS (ExpressJS / NestJS)
+- NodeJS (Express.js, Nest.js, Vue.js)
 - SQL (PostgreSQL)
-- NoSQL (MongoDB)
-- Git (GitHub, GitLab, BitBacket)
-
-## Also used and learned: 
-- Python 3 (Flask, Django)
-- jQuery
-- React/Redux
-- Docker
-- Webpack
-- AWS (S3, EC2, Lambda)
+- NoSQL (MongoDB, Firestore)
+- Git (GitHub, GitLab, BitBucket)
 
 ## How to reach me: 
 - LinkedIn: https://www.linkedin.com/in/oleh-mikadze-568353ab/
