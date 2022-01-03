@@ -1,6 +1,4 @@
-### Welcome to my Github account 👋
-
-Web developer at Folderly from Ukraine, Kyiv. 
+### Web developer at Folderly from Ukraine, Kyiv 👋
 
 ## My working stack of technologies: 
 - JavaScript ES5+
