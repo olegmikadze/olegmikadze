@@ -1,4 +1,4 @@
-### FullStack NodeJS Web developer at Folderly from Ukraine, Kyiv 👋
+### FullStack NodeJS Web developer  from Ukraine, Kyiv 👋
 
 ### My working stack of technologies: 
 - JavaScript ES5+
