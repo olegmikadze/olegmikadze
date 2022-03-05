@@ -10,6 +10,7 @@
   <img align="left" alt="Oleh's LinkedIn" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/linkedin.svg" />
 </a>
 
+<br />
 
 ### My working stack of technologies: 
 - JavaScript ES5+
