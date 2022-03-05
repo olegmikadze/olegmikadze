@@ -16,7 +16,8 @@
 - <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png"> JavaScript ES5+</code>
  
 - TypeScript
-- Node.js (Express.js, Nest.js, Vue.js)
+- Node.js (Express.js, Nest.js, <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/vue/vue.png"> Vue.js</code>
+)
 - SQL (PostgreSQL)
 - NoSQL (MongoDB, Firestore)
 - Git (GitHub, GitLab, BitBucket)
