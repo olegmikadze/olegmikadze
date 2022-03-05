@@ -18,7 +18,8 @@
 - <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png"> JavaScript</code>
  - <code><img height="20" src="https://raw.githubusercontent.com/remojansen/logo.ts/master/ts.png"> TypeScript</code>
 - <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png"> Node.js</code>
- (<code><img height="20" src="https://i.cloudup.com/zfY6lL7eFa-3000x3000.png"></code>, Nest.js, <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/vue/vue.png"> Vue.js</code>
+ (<code><img height="20" src="https://i.cloudup.com/zfY6lL7eFa-3000x3000.png"></code>, <code>  <a href="http://nestjs.com/" target="blank"><img src="https://nestjs.com/img/logo-small.svg" width="120" alt="Nest Logo" /></a>
+ Nest.js</code>, <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/vue/vue.png"> Vue.js</code>
 )
 - SQL (PostgreSQL)
 - NoSQL (MongoDB, Firestore)
