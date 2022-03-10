@@ -29,5 +29,4 @@
 - Djinni: https://djinni.co/q/43dbda55c1/
 - Instagram: https://www.instagram.com/olehmikadze/
 - Gmail: olegmikadze@gmail.com
-- CV: https://olegmikadze.github.io/cvNew/
 
