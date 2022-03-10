@@ -21,9 +21,9 @@
  (<code><img height="20" src="https://i.cloudup.com/zfY6lL7eFa-3000x3000.png"></code>, <code>  <a href="http://nestjs.com/" target="blank"><img src="https://nestjs.com/img/logo-small.svg" width="22px" alt="Nest Logo" /></a>
  Nest.js</code>, <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/vue/vue.png"> Vue.js</code>
 )
--  <code><img  height="20" src="https://img.icons8.com/external-wanicon-lineal-color-wanicon/64/000000/external-sql-server-big-data-wanicon-lineal-color-wanicon.png"/>Databases: SQL (PostgreSQL), NoSQL (MongoDB, Firestore)</code>
+-  <code><img  height="20" src="https://img.icons8.com/external-wanicon-lineal-color-wanicon/64/000000/external-sql-server-big-data-wanicon-lineal-color-wanicon.png"/> Databases: SQL (PostgreSQL), NoSQL (MongoDB, Firestore)</code>
+- <code><img  height="20" src="https://img.icons8.com/color/48/000000/git.png"/> Git (GitHub, GitLab, BitBucket) </code>
 - 
-- Git (GitHub, GitLab, BitBucket)
 
 ### How to reach me: 
 - LinkedIn: https://www.linkedin.com/in/oleh-mikadze-568353ab/
