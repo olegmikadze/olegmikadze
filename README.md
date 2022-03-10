@@ -23,6 +23,7 @@
 )
 -  <code><img  height="20" src="https://img.icons8.com/external-wanicon-lineal-color-wanicon/64/000000/external-sql-server-big-data-wanicon-lineal-color-wanicon.png"/> Databases: SQL (PostgreSQL), NoSQL (MongoDB, Firestore)</code>
 - <code><img  height="20" src="https://img.icons8.com/color/48/000000/git.png"/> Git (GitHub, GitLab, BitBucket) </code>
+- <code><img height="20" src="https://img.icons8.com/color/48/000000/google-cloud-platform.png"/> Google Cloud Platform </code>
 
 ### How to reach me: 
 - LinkedIn: https://www.linkedin.com/in/oleh-mikadze-568353ab/
