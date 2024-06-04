@@ -1,8 +1,8 @@
 <h1 align="center">Hi 👋, I'm Oleh Mikadze</h1>
-<h3 align="center">A passionate Fullstack JavaScript Developer from Ukraine, Kyiv 👋</h3>
+<h3 align="center">A passionate Fullstack Nodejs Developer from Ukraine, Kyiv 👋</h3>
 
-- 📫 How to reach me **oleh.v.mikadze@gmail.com**
-- Linkedin: <a href="https://linkedin.com/in/oleh-mikadze/" target="blank">**olehmikadze**</a>
+- 📫 Email: **oleh.v.mikadze@gmail.com**
+- 🔗 Linkedin: <a href="https://linkedin.com/in/oleh-mikadze/" target="blank">**olehmikadze**</a>
 
 
 
